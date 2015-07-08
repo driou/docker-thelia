@@ -22,7 +22,7 @@ To install Docker on your computer, please follow instructions [here](https://do
 Clone this repository : 
 
 ```
-git clone https//github.com/driou/docker-debian
+git clone https://github.com/driou/docker-thelia
 ```
 
 From root of the repository, build the image container :
